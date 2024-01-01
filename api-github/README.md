@@ -35,6 +35,13 @@ Antes de começar, certifique-se de ter o Node.js e o npm (gerenciador de pacote
 
 - Para rodar o projeto use o comando **npm start**
 
+## Interface
+![image](https://github.com/gusstavo01/api-github/assets/105757864/53130ecd-8d3c-4c06-b4c0-428297092a30)
+![image](https://github.com/gusstavo01/api-github/assets/105757864/64b6c9a9-19ec-49c4-b9ee-b83b3b34e830)
+
+
+
+
 
 
 
