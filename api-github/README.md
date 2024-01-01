@@ -1,11 +1,11 @@
 # API DO GIT HUB
 
 ## Descrição
-- Este projeto é uma aplicação web que simplifica o acesso à API do GitHub. Ele fornece uma interface intuitiva para buscar repositórios, visualizar perfis de usuários e explorar informações detalhadas sobre commits e issues
+- Este projeto é uma aplicação web que simplifica o acesso à API do GitHub. Ele fornece uma interface intuitiva para buscar repositórios, visualizar perfis de usuários e explorar informações detalhadas sobre commits e issues.
 
 ## Funcionalidades
 
-- Busca de repositórios por nome ou linguagem.
+- Busca de repositórios por nome.
 - Visualização de perfis de usuários com estatísticas do GitHub.
 - Detalhes completos de commits, issues e pull requests.
 
@@ -27,7 +27,7 @@ Antes de começar, certifique-se de ter o Node.js e o npm (gerenciador de pacote
 - [npm](https://www.npmjs.com/)
   
 ## Passo 1: Instalar o React
--npm install react react-dom
+- npm install react react-dom
 ## Passo 2: instalar o babel
 - npm install @babel/core @babel/preset-env @babel/preset-react --save-dev
 
