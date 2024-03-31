@@ -26,11 +26,9 @@ Antes de começar, certifique-se de ter o Node.js e o npm (gerenciador de pacote
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
   
-## Passo 1: Instalar o React
-- npm install react react-dom
-## Passo 2: instalar o babel
-- npm install @babel/core @babel/preset-env @babel/preset-react --save-dev
-
+## Passo 1: Instalar as dependencias
+- npm install
+  
 ## Uso
 
 - Para rodar o projeto use o comando **npm start**
